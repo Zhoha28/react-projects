@@ -17,7 +17,7 @@
 
 <p>
   1. Birthday Reminders with useState Hook <a href="https://jovial-pike-0e1064.netlify.app/"><strong>View Demo »</strong></a><br>
-  2. Neeflix Favs with props <a href="https://condescending-curie-a6efd0.netlify.app/"><strong>View Demo »</strong></a><br>
+  2. Netflix Favs with props <a href="https://condescending-curie-a6efd0.netlify.app/"><strong>View Demo »</strong></a><br>
   </p>
 
 
