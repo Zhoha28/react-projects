@@ -24,7 +24,7 @@
 <!-- CONTACT -->
 ## Contact
 
-Your Name - Zhoha Damani
+Name - Zhoha Damani
 
 Project Link:  https://github.com/Zhoha28/react-projects
 
